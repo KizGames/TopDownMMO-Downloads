@@ -4,6 +4,14 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.2.0 - 2026-10-07
+- **Real characters:** you now play as a low-poly human instead of a capsule, with animations
+  for standing, running, sword swings, dash and casting. The sword is held in the character's hand.
+- A male (used in this build) and a female character were made; choosing between them in-game
+  comes later.
+- These characters are **early placeholders**: simple shapes and basic animations that will
+  change a lot. Gameplay (speed, ranges, hit areas) is the same as 0.1.1.
+
 ## 0.1.1 - 2026-10-07
 - **Wider sword swings:** the basic attack now covers a 160° arc (was 120°), still 2.6 m reach.
   A white slash shows exactly what each swing can hit.

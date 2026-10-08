@@ -16,4 +16,4 @@ Playable test builds of an early 3D top-down action MMO prototype (made with God
 - E / R / Right Click: placeholders for now
 
 ## What's new
-See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.1.1**.
+See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.2.0** (new: low-poly characters with animations, early placeholders).
