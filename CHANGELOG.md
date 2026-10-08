@@ -4,6 +4,19 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.3.0 - 2026-10-07
+- **Sound!** Sword swings, hits and misses (a miss sounds different from a hit), spell cast,
+  spell impacts (different sounds for hitting a dummy, hitting a rock/tree/bush or the ground,
+  and fizzling out at max range), dash, soft footsteps, dummies falling and standing back up,
+  and a click when a skill is still on cooldown. All sounds are made from scratch and are early
+  versions; feedback welcome.
+- **Backwards and sideways running:** moving away from the mouse plays a backwards jog with the
+  character leaning back; moving sideways plays a sideways run while the chest keeps facing the mouse.
+- **No more sliding feet:** the running animations now play at exactly the speed you move.
+- **Tab: character select.** Pick Male or Female any time; your sword and animations come along.
+  Tab or Esc closes the menu.
+- Spells now hit bushes too (you can still walk through bushes).
+
 ## 0.2.1 - 2026-10-07
 - **Adjustable camera:** hold **Alt** and roll the **mouse wheel**. Wheel up moves the camera
   closer and lower, behind your character; wheel down moves it further away and more top-down.

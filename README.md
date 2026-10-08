@@ -16,6 +16,7 @@ Playable test builds of an early 3D top-down action MMO prototype (made with God
 - E / R / Right Click: placeholders for now
 - Alt + Mouse Wheel: camera zoom (up = closer and lower, down = further and more top-down)
 - Double-tap Alt: reset the camera to the normal view
+- Tab: character select (Male / Female); Tab or Esc closes it
 
 ## What's new
-See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.2.1** (new: adjustable camera with Alt + mouse wheel).
+See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.3.0** (new: sound effects, backwards/sideways running, Tab character select).
