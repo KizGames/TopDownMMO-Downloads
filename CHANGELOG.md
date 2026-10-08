@@ -4,6 +4,20 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.1.05 - 2026-10-08
+- **New Albion-style bodies:** the male and female characters were rebuilt to look like Albion
+  Online's: chunky, clean low-poly shapes, broad shoulders, a slightly bigger head, bigger hands
+  and feet, and smooth painted-looking shading. Skin tones, hair styles, hair colors and beards
+  all still work, and all the animations are the same.
+- **Painted underwear and a light skin texture:** the underwear is now painted on the body
+  instead of being a separate piece, and the skin has a subtle hand-painted look. This keeps the
+  body clean so armor can be added on top later.
+- **Softer, more painted world:** grass, dirt, rocks, bushes, trees and the training dummies have
+  very light painted detail and gentle shading near the ground. Their shapes are unchanged.
+- **Smaller training dummies:** about 1.1-1.2x your height instead of towering over you; their
+  health bars and names moved down to match.
+- The character creation screen is unchanged.
+
 ## 0.1.04 - 2026-10-07
 > **New version numbers:** this build comes after 0.3.0 but is called **0.1.04**. From now on
 > every update adds one to the last number (0.1.05, 0.1.06, ...). Older builds keep their old numbers.
