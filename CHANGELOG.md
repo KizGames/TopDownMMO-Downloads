@@ -4,6 +4,33 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.1.07 - 2026-10-08
+- **Sword & Shield:** your character now carries a sword and a round wooden shield. Out of
+  combat the sword hangs on your hip and the shield on your back; attacking draws them and
+  they go away by themselves after 5 seconds. Press **X** to draw or sheathe them yourself.
+  With weapons out you hold the shield up in front.
+- **You can get hurt now:** 100 health, a health bar, red numbers for damage you take, a death
+  screen, and a respawn at the start point after 5 seconds.
+- **Healing Dummies and R = Test Heal:** two dummies with green health bars next to the
+  training dummies start half full. Press **R** to heal the one under the mouse (or yourself)
+  for 25. A placeholder until healing weapons exist.
+- **First enemies:** a small placeholder camp south-east of the start (a Brute and two
+  Skirmishers). They chase you, flash a red warning on the ground before they hit, and give
+  up if you run far enough. All enemies now find their way around trees and rocks.
+- **The wolf den** north-west of the start: 6 gray wolves, 2 matriarchs and 1 big black alpha,
+  with real animated wolf models (trot, gallop, bite, leap, flinch, death, howl).
+  - Wolves fight as a pack: hit one and its friends nearby join in.
+  - Matriarchs and the alpha **leap** at you after an orange/red warning on the ground; dash
+    sideways to dodge. Gray wolf and matriarch bites make you **bleed** (stacks, shown on the HUD).
+  - Kill 3 gray wolves and a **matriarch hunts you**; kill a matriarch and the **alpha hunts
+    you**. The hunter howls, a big warning appears on screen, and it follows you a long way.
+  - The den refills faster while a matriarch is alive and slower once both are dead.
+  - The alpha gets angrier (notices you from further away, leaps and bites more often) when it
+    is the last wolf left.
+- **Known rough spots:** the Brute and Skirmishers are still plain shapes; the shield can
+  poke into the chest in some attack frames; the alpha can get a little closer than its body
+  looks; the wolves' tails are a bit stiff.
+
 ## 0.1.06 - 2026-10-08
 - **New bodies from our concept art:** the male and female characters were made from Richard's
   concept drawings with the help of an AI 3D tool, then cleaned up and fitted to our own
