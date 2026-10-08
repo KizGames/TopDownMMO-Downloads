@@ -10,7 +10,10 @@ Playable test builds of an early 3D top-down action MMO prototype (made with God
 ## Controls
 - WASD: move
 - Mouse: aim (your character faces the cursor)
-- Left Click: basic attack (hold to keep swinging)
-- Space: dash
-- Q: skillshot projectile
+- Left Click: sword attack, 160° arc, 2.6 m reach (hold to keep swinging)
+- Space: dash (5 m)
+- Q: skillshot projectile (range 20 m)
 - E / R / Right Click: placeholders for now
+
+## What's new
+See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.1.1**.
