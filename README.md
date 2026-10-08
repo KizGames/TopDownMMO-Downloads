@@ -14,6 +14,8 @@ Playable test builds of an early 3D top-down action MMO prototype (made with God
 - Space: dash (5 m)
 - Q: skillshot projectile (range 20 m)
 - E / R / Right Click: placeholders for now
+- Alt + Mouse Wheel: camera zoom (up = closer and lower, down = further and more top-down)
+- Double-tap Alt: reset the camera to the normal view
 
 ## What's new
-See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.2.0** (new: low-poly characters with animations, early placeholders).
+See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.2.1** (new: adjustable camera with Alt + mouse wheel).

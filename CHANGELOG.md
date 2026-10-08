@@ -4,6 +4,13 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.2.1 - 2026-10-07
+- **Adjustable camera:** hold **Alt** and roll the **mouse wheel**. Wheel up moves the camera
+  closer and lower, behind your character; wheel down moves it further away and more top-down.
+  The camera glides smoothly between steps.
+- **Double-tap Alt** to glide back to the normal view.
+- The mouse wheel on its own does nothing for now (saved for later).
+
 ## 0.2.0 - 2026-10-07
 - **Real characters:** you now play as a low-poly human instead of a capsule, with animations
   for standing, running, sword swings, dash and casting. The sword is held in the character's hand.
