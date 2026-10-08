@@ -4,6 +4,22 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.1.04 - 2026-10-07
+> **New version numbers:** this build comes after 0.3.0 but is called **0.1.04**. From now on
+> every update adds one to the last number (0.1.05, 0.1.06, ...). Older builds keep their old numbers.
+
+- **Character creation!** The game now starts on a creation screen: pick Male or Female, a
+  faction (placeholder names for now), skin tone, hair style, hair color and (male) beard, or
+  hit Randomize. Drag with the mouse to turn your character, scroll to zoom. Type a name (2-16
+  letters, no spaces or numbers) and click **Enter World**.
+- **New characters:** more detailed, athletic low-poly male and female models with hands, feet
+  and faces, 4 hair styles each, 6 hair colors, 6 skin tones and 3 beard styles.
+- Only the **Guardian (Tank)** role and the **Human** race can be picked for now; the other roles
+  (Priest, Rogue, Mage) and races show "Coming soon".
+- **Your character is saved.** Next time you can continue with it or create a new one.
+- **Your name shows above your head** in the game.
+- **Tab** now shows your character and lets you change your looks (and Male/Female) any time.
+
 ## 0.3.0 - 2026-10-07
 - **Sound!** Sword swings, hits and misses (a miss sounds different from a hit), spell cast,
   spell impacts (different sounds for hitting a dummy, hitting a rock/tree/bush or the ground,
