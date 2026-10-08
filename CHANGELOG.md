@@ -4,6 +4,17 @@ What's new in each playable build of the TopDownMMO Prototype.
 Download builds from the [Releases](https://github.com/KizGames/TopDownMMO-Downloads/releases) page.
 Dates are in Pacific Time.
 
+## 0.1.06 - 2026-10-08
+- **New bodies from our concept art:** the male and female characters were made from Richard's
+  concept drawings with the help of an AI 3D tool, then cleaned up and fitted to our own
+  skeleton, so all the animations work just like before. Skin tones, hair styles, hair colors
+  and beards all still work, and the underwear is painted on.
+- **New default sword** with a wider blade.
+- **Known rough spots:** the bodies look smoother than the faceted concept art, hands and feet
+  are simple "mittens", the old hairstyles look rough next to the new bodies, there is some
+  creasing at the shoulders and hips, faint marks on the thighs, and the sword rests across the
+  body when standing still.
+
 ## 0.1.05 - 2026-10-08
 - **New Albion-style bodies:** the male and female characters were rebuilt to look like Albion
   Online's: chunky, clean low-poly shapes, broad shoulders, a slightly bigger head, bigger hands

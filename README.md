@@ -20,6 +20,6 @@ Playable test builds of an early 3D top-down action MMO prototype (made with God
 - Tab: character panel (your info + change your looks); Tab or Esc closes it
 
 ## What's new
-See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.1.05** (new: Albion-style male and female bodies with painted underwear and a light hand-painted skin look, subtle painted detail on the ground, rocks, plants and dummies, and smaller training dummies).
+See [CHANGELOG.md](CHANGELOG.md). Latest version: **0.1.06** (new: male and female bodies made from our concept art and fitted to our own skeleton, and a new default sword with a wider blade).
 
 Version numbers: from 0.1.04 on, every update adds one to the last number (0.1.05, 0.1.06, ...). Builds before that were numbered 0.1.0 to 0.3.0.
